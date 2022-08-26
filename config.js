@@ -12,18 +12,18 @@ global.APIKeys = {
 }
 
 // NAMBAH BOLEH HAPUS JANGAN -_-
-global.owner = ['6281511480762']
-global.premium = ['621511480762']
-global.packname = 'AzzBot√'
-global.author = 'AzzBot-MD'
-global.sessionName = 'Xavior'
+global.owner = ['62895331245483']
+global.premium = ['62895331245483']
+global.packname = 'ALdiixBotZ'
+global.author = '𝙞𝙩𝙨𝙈𝙚𝘼𝙇𝙙𝙞𝙞 ★'
+global.sessionName = 'ItsMeALdii'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    owner: 'Fitur Khusus 𝙞𝙩𝙨𝙈𝙚𝘼𝙇𝙙𝙞𝙞 ★',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
@@ -36,7 +36,7 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./lib/xavi.jpg')
 global.tutor = fs.readFileSync('./video/intro.mp4')
-global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
+global.visoka = { url: 'https://telegra.ph/file/9967164c85976f551bb05.jpg' }
 global.menu1 = fs.readFileSync('./foto/1.jpg')
 global.menu2 = fs.readFileSync('./foto/1.jpg')
 global.menu3 = fs.readFileSync('./foto/1.jpg')
